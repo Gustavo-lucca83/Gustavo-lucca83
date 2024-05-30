@@ -12,11 +12,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-lucca83&show_icons=true&theme=onedark)
 
-<div>**Contato**</div><br>
+<div>**Contato**</div>
+
 👤 **Luis Gustavo**
 
 * Github: [@Gustavo-lucca83](https://github.com/Gustavo-lucca83)
 * LinkedIn: [@gustavoluccadev](https://linkedin.com/in/gustavoluccadev)
+<hr> 
 
   <picture>
   <source
