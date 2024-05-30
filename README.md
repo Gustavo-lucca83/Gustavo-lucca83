@@ -13,8 +13,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-lucca83&show_icons=true&theme=onedark)
 
 <div>**Contato**</div><br>
+👤 **Luis Gustavo**
 
-<picture>
+* Github: [@Gustavo-lucca83](https://github.com/Gustavo-lucca83)
+* LinkedIn: [@gustavoluccadev](https://linkedin.com/in/gustavoluccadev)
+
+  <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
@@ -28,10 +32,5 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-👤 **Luis Gustavo**
-
-* Github: [@Gustavo-lucca83](https://github.com/Gustavo-lucca83)
-* LinkedIn: [@gustavoluccadev](https://linkedin.com/in/gustavoluccadev)
 
 <div>
