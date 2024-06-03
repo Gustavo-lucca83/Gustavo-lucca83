@@ -16,8 +16,8 @@
 
 👤 **Luis Gustavo**
 
-* Github: [@Gustavo-lucca83](https://github.com/Gustavo-lucca83)
-* LinkedIn: [@gustavoluccadev](https://linkedin.com/in/gustavoluccadev)
+* Github: [@Gustavo-lucca83](https://github.com/Gustavo-lucca83 target="_blank")
+* LinkedIn: [@gustavoluccadev](https://linkedin.com/in/gustavoluccadev target="_blank")
 <hr> 
 
 <div>
