@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" align-items="center" alt="react">
 </div>
 
+[![Generate Snake](https://github.com/Gustavo-lucca83/readmi3/actions/workflows/blank.yml/badge.svg?event=create)](https://github.com/Gustavo-lucca83/readmi3/actions/workflows/blank.yml)
 
 
 <div>**Contato**</div>
